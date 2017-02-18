@@ -9,10 +9,10 @@
 
 All other contact details available upon request.
 
-## Career Summary
+## Profile
 Experienced front-end developer with a passion for creating unique and engaging experiences, whilst paying special attention to best practices. With a passion for following the ever evolving web landscape, particularly with regards to emerging technologies, usability and design. Currently looking for new opportunities on a team in a front-end position.
 
-## Career
+## Current position
 
 ### Grit Digital LTD - Norwich, Norfolk
 **Front-end web developer**  
@@ -28,6 +28,8 @@ Duties and skills as front-end developer were diverse and not limited to develop
 - Project management
 - Client liaison
 - Consulting and costing
+
+## Career history
 
 ### Freelance Web Developer - National
 **Web Designer and Developer**  
