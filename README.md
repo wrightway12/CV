@@ -60,7 +60,7 @@ Graduated from Nottingham Trent University in 2010 with a honours degree in the 
 - BEM; ITCSS; OOCSS.
 - LESS; Stylus; Bootstrap; Foundation.
 - Handlebars; Haml; Pug (Jade).
-- Foundation Emails; Campaign Monitor & MailChimp.
+- Foundation Emails; Campaign Monitor; MailChimp.
 - Git; Git-Flow.
 - Linux; DigitalOcean; NGINX; Apache; Vagrant.
 
