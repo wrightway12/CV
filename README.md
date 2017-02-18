@@ -52,8 +52,8 @@ Graduated from Nottingham Trent University in 2010 with a honours degree in the 
 - Linux
 
 ### Languages
-- HTML
-- CSS, Sass (SCSS)
+- HTML5
+- CSS3, Sass (SCSS)
 - JavaScript
 
 ### Design
