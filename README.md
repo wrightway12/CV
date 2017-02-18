@@ -11,7 +11,7 @@ Front-end Engineer
 All other contact details available upon request.
 
 ## Career Summary
-Experienced front-end developer with a passion for creating unique and engaging experiences whilst paying special attention to best practice. With a passion for following the ever evolving web landscape, particularly with regards to emerging technologies, usability and design. Currently looking for a front-end position on an exciting project.
+Experienced front-end developer with a passion for creating unique and engaging experiences, whilst paying special attention to best practices. With a passion for following the ever evolving web landscape, particularly with regards to emerging technologies, usability and design. Currently looking for new opportunities on a team in a front-end position.
 
 ## Career
 
@@ -48,26 +48,23 @@ Graduated from Nottingham Trent University in 2010 with a honors degree in the f
 - Git, Git-Flow
 - NGINX / Apache
 - Node.js
+- Linux
 
 ### Languages
 - HTML
 - CSS, Sass (SCSS)
 - JavaScript
 
-### Software
-- VS Code
-- CLI
-
 ### Design
 - Interface Design
 - User Experience
 - Affinity Suite / Sketch / Adobe CC
 
-### Everday Tools, Methodolgies and Frameworks
-BEM; ITCSS; OOCSS; NPM; Gulp; jQuery; Github; Vagrant.
+### Everday Tools, Methodologies and Frameworks
+BEM; ITCSS; OOCSS; npm; Gulp; jQuery; Vagrant.
 
 ### Other Tools and Frameworks
-Gulp; Handlebars; Haml; Pug (Jade); LESS; Stylus; BootStrap; Foundation; Github; Foundation Emails; Campaign Monitor & Mail Chimp;
+Handlebars; Haml; Pug (Jade); LESS; Stylus; Bootstrap; Foundation; Foundation Emails; Campaign Monitor & MailChimp;
 
 ## References
 Reference are available upon request.
