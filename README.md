@@ -16,7 +16,7 @@ Experienced front-end developer with a passion for creating unique and engaging 
 ## Career
 
 ### Grit Digital LTD - Norwich, Norfolk
-**Front-end web developer**
+**Front-end web developer**  
 _February 2011 - Present_
 
 Duties and skills as front-end developer were diverse and not limited to development. Day-to-day activities range from building websites according to a  provided designs and integrating them with a CMS; managing clients expectations and supervising the development side of the project life cycling. Other skils and duties include:
@@ -31,13 +31,13 @@ Duties and skills as front-end developer were diverse and not limited to develop
 - Consulting and costing
 
 ### Freelance Web Developer - National
-**Web Designer and Developer**
+**Web Designer and Developer**  
 _April 2010 - July 2011_
 
 Freelance web development work ranging from client services to developing websites for the Wordpress CMS.
 
 ### Nottingham Trent University
-**BA (hons) Graphic Design**
+**BA (hons) Graphic Design**  
 _September 2007 - March 2010_
 
 Graduated from Nottingham Trent University in 2010 with a honors degree in the field of Graphic Design.
