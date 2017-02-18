@@ -45,12 +45,6 @@ Graduated from Nottingham Trent University in 2010 with a honours degree in the 
 
 ## Skills and Tooling
 
-### Development
-- Git, Git-Flow
-- NGINX / Apache
-- Node.js
-- Linux
-
 ### Languages
 - HTML5
 - CSS3, Sass (SCSS)
@@ -62,10 +56,13 @@ Graduated from Nottingham Trent University in 2010 with a honours degree in the 
 - Affinity Suite / Sketch / Adobe CC
 
 ### Everyday Tools, Methodologies and Frameworks
-BEM; ITCSS; OOCSS; npm; Gulp; jQuery; Vagrant.
-
-### Other Tools and Frameworks
-Handlebars; Haml; Pug (Jade); LESS; Stylus; Bootstrap; Foundation; Foundation Emails; Campaign Monitor & MailChimp;
+- Node.js; npm; Gulp; jQuery.
+- BEM; ITCSS; OOCSS.
+- LESS; Stylus; Bootstrap; Foundation.
+- Handlebars; Haml; Pug (Jade).
+- Foundation Emails; Campaign Monitor & MailChimp.
+- Git; Git-Flow.
+- Linux; DigitalOcean; NGINX; Apache; Vagrant.
 
 ## References
 Reference are available upon request.
