@@ -11,7 +11,7 @@ Front-end Engineer
 All other contact details available upon request.
 
 ## Career Summary
-Experienced front-end developer with a passion for creating unique and engaging experiences whilst paying special attention to best practice. With a passion for following the ever evolving web landscape, particularly with regards to emerging technologies, usability and design. Tony is currently looking for a front-end position on an exciting project.
+Experienced front-end developer with a passion for creating unique and engaging experiences whilst paying special attention to best practice. With a passion for following the ever evolving web landscape, particularly with regards to emerging technologies, usability and design. Currently looking for a front-end position on an exciting project.
 
 ## Career
 
