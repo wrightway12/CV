@@ -1,4 +1,4 @@
-# Curriculum Vitae
+	# Curriculum Vitae
 **Tony Phipps**  
 Front-end Engineer
 
@@ -19,7 +19,7 @@ Experienced front-end developer with a passion for creating unique and engaging 
 **Front-end web developer**  
 _February 2011 - Present_
 
-Duties and skills as front-end developer were diverse and not limited to development. Day-to-day activities range from building websites according to a  provided designs and integrating them with a CMS; managing clients expectations and supervising the development side of the project life cycling. Other skils and duties include:
+Duties and skills as front-end developer were diverse and not limited to development. Day-to-day activities range from building websites according to a provided designs and integrating them with a CMS; managing clients expectations and supervising the development side of the project life cycling. Other skills and duties include:
 
 - PSD/AI to HTML
 - CMS Integration (WordPress & Laravel)
@@ -27,20 +27,20 @@ Duties and skills as front-end developer were diverse and not limited to develop
 - Accessibility testing
 - Creative direction
 - Project management
-- Client liasion
+- Client liaison
 - Consulting and costing
 
 ### Freelance Web Developer - National
 **Web Designer and Developer**  
 _April 2010 - July 2011_
 
-Operating as a freelance web developer building content managed websites for small business across the country. Consisting predominantly of bespoke themes on the WordPress platform Utilising CSS, JavaScript and PHP. Alongside development, freelancing also consisted of sourcing and managing clients, estimating builds, designing to the clients requirements, managing hosting and providing ongoing support.
+Operating as a freelance web developer building content managed websites for small businesses on a national basis. Consisting predominantly of bespoke themes on the WordPress platform Utilising CSS, JavaScript and PHP. Alongside development, freelancing also consisted of sourcing and managing clients, estimating builds, designing to the clients requirements, managing hosting and providing ongoing support.
 
 ### Nottingham Trent University
 **BA (hons) Graphic Design**  
 _September 2007 - March 2010_
 
-Graduated from Nottingham Trent University in 2010 with a honors degree in the field of Graphic Design.
+Graduated from Nottingham Trent University in 2010 with a honours degree in the field of Graphic Design.
 
 ## Skills and Tooling
 
@@ -60,7 +60,7 @@ Graduated from Nottingham Trent University in 2010 with a honors degree in the f
 - User Experience
 - Affinity Suite / Sketch / Adobe CC
 
-### Everday Tools, Methodologies and Frameworks
+### Everyday Tools, Methodologies and Frameworks
 BEM; ITCSS; OOCSS; npm; Gulp; jQuery; Vagrant.
 
 ### Other Tools and Frameworks
