@@ -1,5 +1,5 @@
 # Curriculum Vitae
-Tony Phipps  
+*Tony Phipps*  
 Front-end Engineer
 
 ## Contact
