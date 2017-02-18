@@ -1,8 +1,7 @@
-	# Curriculum Vitae
-**Tony Phipps**  
-Front-end Engineer
+# Tony Phipps  
+**Front-end Engineer**
 
-## Contact
+## Norwich, UK
 - **Email** - [tonyphipps@gmail.com](mailto:tonyphipps@gmail.com)
 - **Website** - [tonyphipps.co.uk](http://tonyphipps.co.uk)
 - **Github** - [github.com/neutraltone](http://github.com/neutraltone)
