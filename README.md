@@ -34,7 +34,7 @@ Duties and skills as front-end developer were diverse and not limited to develop
 **Web Designer and Developer**  
 _April 2010 - July 2011_
 
-Freelance web development work ranging from client services to developing websites for the Wordpress CMS.
+Operating as a freelance web developer building content managed websites for small business across the country. Consisting predominantly of bespoke themes on the WordPress platform Utilising CSS, JavaScript and PHP. Alongside development, freelancing also consisted of sourcing and managing clients, estimating builds, designing to the clients requirements, managing hosting and providing ongoing support.
 
 ### Nottingham Trent University
 **BA (hons) Graphic Design**  
