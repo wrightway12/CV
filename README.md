@@ -6,6 +6,7 @@
 - **Website** - [tonyphipps.co.uk](http://tonyphipps.co.uk)
 - **Github** - [github.com/neutraltone](http://github.com/neutraltone)
 - **Codepen** - [codepen.io/neutraltone](http://codepen.io/neutraltone)
+- **LinkedIn** - [linkedin.com/in/tonytphipps/](https://www.linkedin.com/in/tonytphipps/)
 
 All other contact details available upon request.
 
