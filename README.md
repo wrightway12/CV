@@ -13,6 +13,27 @@ All other contact details available upon request.
 ## Profile
 Experienced front-end developer with a passion for creating unique and engaging experiences, whilst paying special attention to best practices. With a passion for following the ever evolving web landscape, particularly with regards to emerging technologies, usability and design. Currently looking for new opportunities on a team in a front-end position.
 
+## Skills and Tooling
+
+### Languages
+- HTML5
+- CSS3, Sass (SCSS)
+- JavaScript
+
+### Design
+- Interface Design
+- User Experience
+- Affinity Suite / Sketch / Adobe CC
+
+### Everyday Tools, Methodologies and Frameworks
+- Node.js; npm; Gulp; jQuery.
+- BEM; ITCSS; OOCSS.
+- LESS; Stylus; Bootstrap; Foundation.
+- Handlebars; Haml; Pug (Jade).
+- Foundation Emails; Campaign Monitor; MailChimp.
+- Git; Git-Flow.
+- Linux; DigitalOcean; NGINX; Apache; Vagrant.
+
 ## Current position
 
 ### Grit Digital LTD - Norwich, Norfolk
@@ -43,27 +64,6 @@ Operating as a freelance web developer building content managed websites for sma
 _September 2007 - March 2010_
 
 Graduated from Nottingham Trent University in 2010 with a honours degree in the field of Graphic Design.
-
-## Skills and Tooling
-
-### Languages
-- HTML5
-- CSS3, Sass (SCSS)
-- JavaScript
-
-### Design
-- Interface Design
-- User Experience
-- Affinity Suite / Sketch / Adobe CC
-
-### Everyday Tools, Methodologies and Frameworks
-- Node.js; npm; Gulp; jQuery.
-- BEM; ITCSS; OOCSS.
-- LESS; Stylus; Bootstrap; Foundation.
-- Handlebars; Haml; Pug (Jade).
-- Foundation Emails; Campaign Monitor; MailChimp.
-- Git; Git-Flow.
-- Linux; DigitalOcean; NGINX; Apache; Vagrant.
 
 ## References
 Reference are available upon request.
