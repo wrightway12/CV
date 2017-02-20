@@ -11,7 +11,7 @@
 All other contact details available upon request.
 
 ## Profile
-Experienced front-end developer with a passion for creating unique and engaging experiences, whilst paying special attention to best practices. With a passion for following the ever evolving web landscape, particularly with regards to emerging technologies, usability and design. Currently looking for new opportunities on a team in a front-end position.
+As an experienced user-interface designer & front-end developer with 6+ years of commercial experience, I specialise in designing & developing web applications & responsive websites whilst paying special attention to best practices. I am passion about engaging in my professional community and following the ever evolving web landscape, particularly with regards to emerging technologies, usability and design. I’m a keen follower of Agile & iterative design backed by A/B & multi-variant split testing.
 
 ## Skills and Tooling
 
@@ -42,14 +42,13 @@ _February 2011 - Present_
 
 Duties and skills as front-end developer were diverse and not limited to development. Day-to-day activities range from building websites according to a provided designs and integrating them with a CMS; managing clients expectations and supervising the development side of the project life cycling. Other skills and duties include:
 
-- PSD/AI to HTML
-- CMS Integration (WordPress & Laravel)
-- Usability testing
-- Accessibility testing
-- Creative direction
-- Project management
-- Client liaison
-- Consulting and costing
+- Setup front-end tooling with gulp.js to support building of SASS components, JS modules and SVG sprite sheets [(view project](https://github.com/neutraltone/gulp-boilerplate)
+- Converted the front-end of a number of existing client websites into a responsive solution utilising Sass following BEM and ITCSS methodologies
+- Built numerous responsive websites and web applications from design mockups (PSD/AI/Sketch)
+- Integrated responsive templates with the WordPress CMS utilising custom post types, custom taxonomies and the Advanced Custom Fields plugin
+- Usability and accessibility testing of builds to ensure they were compliant the WCAG AA standard
+- Aiding the creative process by working closely with the designer to ensure concepts are within development budgets
+- Liaising with clients where possible to streamline build turnaround times
 
 ## Career history
 
