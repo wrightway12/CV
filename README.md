@@ -45,7 +45,7 @@ Day-to-day activities range from building websites according to a provided desig
 - Setup front-end tooling with gulp.js to support building of SASS components, JS modules and SVG sprite sheets. 
 - Converted the front-end of a number of existing client websites into a responsive solution utilising Sass following a combination of BEM, OOCSS and ITCSS methodologies.
 - Built numerous responsive websites and web applications from design mockups (PSD/AI/Sketch).
-- Creation of HTML emails for both the Campaign Monitor and MailChimp platforms as well as transitional emails for CMS integration.
+- Creation of HTML emails for both the Campaign Monitor and MailChimp platforms as well as transactional emails for CMS integration.
 - Integrated responsive templates with the WordPress CMS, utilising custom post types, custom taxonomies and the Advanced Custom Fields plugin.
 - Usability and accessibility testing of builds to ensure they were compliant the WCAG AA standard.
 - Aiding the creative process by working closely with the designer to ensure concepts are within development budgets.
