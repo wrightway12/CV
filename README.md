@@ -43,10 +43,9 @@ _June 2017 - Present_
 Duties range from designing products, implementing designs responsively, integrating with various CMS platforms right though to monitoring user behaviour to inform iterations of designs.
 
 - Setup front-end tooling with gulp.js and webpack to support building of SASS components, JS modules and SVG sprite sheets.
-- Converted the front-end of a number of existing client websites into a responsive solution utilising Sass following a combination of BEM, OOCSS and ITCSS methodologies.
-- Built numerous responsive websites and web applications from design mockups (PSD/AI/Sketch).
+- Introduced and managed continuous integration for a number of new and existing projects allowing for auto deployment.
+- Instated JavaScript integration tests as part of the deployment process for a number of projects.
 - Integrated responsive templates with the WordPress CMS, utilising custom post types, custom taxonomies, Timber and the Advanced Custom Fields plugin.
-- Usability and accessibility testing of builds to ensure they were compliant the WCAG AA standard.
 - UX research and testing using a variety of platforms and techniques including, but not limited to, Google Analytics, Hotjar and A/B testing.
 
 
