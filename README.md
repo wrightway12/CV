@@ -26,7 +26,7 @@ As an experienced user-interface designer and front-end developer with 6+ years 
 - Affinity Suite / Sketch / Adobe CC
 
 ### Everyday Tools, Methodologies and Frameworks
-- Node.js; npm; webpack; Gulp; jQuery.
+- Node.js; npm; webpack; Vue.js; Gulp.
 - BEM; ITCSS; OOCSS.
 - LESS; Stylus; Bootstrap; Foundation.
 - Handlebars; Haml; Pug (Jade).
