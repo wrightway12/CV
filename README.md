@@ -28,7 +28,7 @@ As an experienced user-interface designer and front-end developer with 6+ years 
 ### Everyday Tools, Methodologies and Frameworks
 - Node.js; npm; webpack; Vue.js; Gulp.
 - BEM; ITCSS; OOCSS.
-- LESS; Stylus; Bootstrap; Foundation.
+- Sass; LESS; Stylus; Bootstrap; Foundation.
 - Handlebars; Haml; Pug (Jade).
 - Foundation Emails; Campaign Monitor; MailChimp.
 - Git; Git-Flow.
